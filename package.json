@@ -1,0 +1,31 @@
+{
+  "name": "notabot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "11.x",
+    "npm": "6.x"
+  },
+  "scripts": {
+    "start": "node run.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@blad3mak3r/reddit-memes": "^0.2.4",
+    "@discordjs/opus": "^0.8.0",
+    "discord-rpc": "^4.0.1",
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0",
+    "ffmpeg-static": "^4.2.7",
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.1",
+    "node-opus": "^0.3.3",
+    "parse-ms": "^2.1.0",
+    "popyt": "^4.2.0",
+    "urban-dictionary": "^2.2.1",
+    "ytdl-core": "^4.8.0"
+  }
+}
