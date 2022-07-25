@@ -1,4 +1,4 @@
 npm install (required)
-ps replace your bot details inside the dot env file.
+p.s. input your bot details inside the dot env file.
 
 Author- Niroj Paudyal aka KneeRose
