@@ -2,7 +2,7 @@
 
 NotABot is a prefix-command Discord bot built with Node.js and discord.js 12. It groups moderation, server utilities, fun commands, a Tic-Tac-Toe game, and voice-channel music controls.
 
-The command prefix is `; ` without the space: commands start with `;` (for example, `;ping`).
+The command prefix is `;` (for example, `;ping`).
 
 ## Features
 
@@ -43,7 +43,7 @@ The current source reads these environment variable names:
 | `CLIENT_TOKEN` | Discord bot login |
 | `CLIENT_ID` | Bot ID checks in permission and music-reaction logic |
 | `YT_API` | YouTube lookup used by the music module |
-| `API_XD` | YouTube search command |
+| `API_XD` | YouTube search command (this variable was not present in the removed committed `.env`) |
 
 Example format (replace placeholders locally; never put real values in this file or in Git):
 
